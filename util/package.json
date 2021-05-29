@@ -6,7 +6,7 @@
   "dependencies": {
     "neodoc": "^2.0.2",
     "serialport": "^7.1.4",
-    "ws": "^6.1.3"
+    "ws": "^7.4.6"
   },
   "devDependencies": {},
   "scripts": {
